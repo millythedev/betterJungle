@@ -3,7 +3,7 @@
 Better Jungle is a League of Legends tool designed to help players optimize their jungle gameplay and decision-making.
 
 ## Website
-Visit our website: [Better Jungle](https://millythedev.github.io/betterJungle/)
+Visit my website: [Better Jungle](https://millythedev.github.io/betterJungle/)
 
 ## Project info
 
